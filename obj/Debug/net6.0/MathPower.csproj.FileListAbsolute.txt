@@ -1,0 +1,15 @@
+/home/saint/Desktop/MathPower/bin/Debug/net6.0/MathPower
+/home/saint/Desktop/MathPower/bin/Debug/net6.0/MathPower.deps.json
+/home/saint/Desktop/MathPower/bin/Debug/net6.0/MathPower.runtimeconfig.json
+/home/saint/Desktop/MathPower/bin/Debug/net6.0/MathPower.dll
+/home/saint/Desktop/MathPower/bin/Debug/net6.0/MathPower.pdb
+/home/saint/Desktop/MathPower/obj/Debug/net6.0/MathPower.csproj.AssemblyReference.cache
+/home/saint/Desktop/MathPower/obj/Debug/net6.0/MathPower.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/MathPower/obj/Debug/net6.0/MathPower.AssemblyInfoInputs.cache
+/home/saint/Desktop/MathPower/obj/Debug/net6.0/MathPower.AssemblyInfo.cs
+/home/saint/Desktop/MathPower/obj/Debug/net6.0/MathPower.csproj.CoreCompileInputs.cache
+/home/saint/Desktop/MathPower/obj/Debug/net6.0/MathPower.dll
+/home/saint/Desktop/MathPower/obj/Debug/net6.0/refint/MathPower.dll
+/home/saint/Desktop/MathPower/obj/Debug/net6.0/MathPower.pdb
+/home/saint/Desktop/MathPower/obj/Debug/net6.0/MathPower.genruntimeconfig.cache
+/home/saint/Desktop/MathPower/obj/Debug/net6.0/ref/MathPower.dll
